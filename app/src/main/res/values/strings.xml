@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sensores</string>
+    <string name="action_settings">Settings</string>
+    <string name="lista">Lista de Sensores:</string>
+    <string name="btnejercicio2">Ejercicio2</string>
+    <string name="txtbtnejercicio3">Ejercicio3</string>
+    <string name="texto_principal">Menu princioal</string>
+    <string name="txtbtnejercicio1">Ejercicio1</string>
+</resources>
